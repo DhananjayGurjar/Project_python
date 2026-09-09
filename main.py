@@ -21,7 +21,7 @@ try:
                     print("Lose\n\n")
                 elif r == 2 and b == 2:
                     print("Win\n\n")
-                                    elif r == 2 and b == 3:
+                elif r == 2 and b == 3:
                     print("Draw\n\n")
                 # for paper as input
                 if r == 3 and b == 1:
